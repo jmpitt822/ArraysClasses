@@ -4,6 +4,6 @@
  */
 public class Authors {
     public String authorName;
-    public String[] publishedWorks;
+    public String[] publishedWorks = {"Monster Hunter International" , "Monster Hunter Vendetta"};
     public boolean isLiving;
 }
